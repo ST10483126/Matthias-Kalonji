@@ -52,7 +52,7 @@ I build across the stack: from relational database design and RESTful API develo
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -72,10 +72,10 @@ I build across the stack: from relational database design and RESTful API develo
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
-<summary><strong>⚡ EventEase — Cloud-Integrated Venue & Event Booking Platform</strong></summary>
+<summary><strong> EventEase — Cloud-Integrated Venue & Event Booking Platform</strong></summary>
 
 <br/>
 
@@ -97,7 +97,7 @@ EventEase demonstrates end-to-end cloud-integrated application development — f
 ---
 
 <details>
-<summary><strong>🏁 RaceDay — Full-Stack Road Running Event Management System</strong></summary>
+<summary><strong> RaceDay — Full-Stack Road Running Event Management System</strong></summary>
 
 <br/>
 
@@ -119,7 +119,7 @@ RaceDay reflects a complete software development lifecycle — ERD design throug
 ---
 
 <details>
-<summary><strong>☕ CoffeeNChill — API-Driven Menu Management System</strong></summary>
+<summary><strong> CoffeeNChill — API-Driven Menu Management System</strong></summary>
 
 <br/>
 
@@ -140,7 +140,7 @@ CoffeeNChill showcases practical API design, containerisation, and collaborative
 ---
 
 <details>
-<summary><strong>💬 QuickChat — Console-Based Messaging Application</strong></summary>
+<summary><strong> QuickChat — Console-Based Messaging Application</strong></summary>
 
 <br/>
 
@@ -160,7 +160,7 @@ QuickChat demonstrates strong object-oriented fundamentals, disciplined test-dri
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **IT Support Technician** · JPSEM Networkers
 `November 2024 – February 2025`
@@ -192,7 +192,7 @@ Delivered consistent customer service in a fast-paced retail environment.
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
 
@@ -208,7 +208,7 @@ Delivered consistent customer service in a fast-paced retail environment.
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 <div align="center">
 
@@ -223,7 +223,7 @@ Delivered consistent customer service in a fast-paced retail environment.
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ST10483126&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" width="48%" />
@@ -233,30 +233,6 @@ Delivered consistent customer service in a fast-paced retail environment.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST10483126&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" width="48%" />
 </div>
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ST10483126&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ST10483126&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=6A0DAD&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ST10483126/ST10483126/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
 ---
 
 ## 🎯 Current Focus
