@@ -226,20 +226,19 @@ Delivered consistent customer service in a fast-paced retail environment.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EMKNDW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EMKNDW&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ST10483126&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=7C3AED&text_color=c9d1d9&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ST10483126&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMKNDW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST10483126&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" width="48%" />
 </div>
-
 ---
 
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EMKNDW&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ST10483126&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" />
 </div>
 
 ---
@@ -247,7 +246,7 @@ Delivered consistent customer service in a fast-paced retail environment.
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EMKNDW&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=6A0DAD&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ST10483126&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=6A0DAD&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -255,7 +254,7 @@ Delivered consistent customer service in a fast-paced retail environment.
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/EMKNDW/EMKNDW/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/ST10483126/ST10483126/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ---
