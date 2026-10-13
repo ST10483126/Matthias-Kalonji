@@ -20,7 +20,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matthias%20Kalonji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthias-k-667a4b2b2/)
   [![Email](https://img.shields.io/badge/Email-matthiaskalonji10%40icloud.com-8B5CF6?style=for-the-badge&logo=apple&logoColor=white)](mailto:matthiaskalonji10@icloud.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-EMKNDW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EMKNDW)
+  [![GitHub](https://img.shields.io/badge/GitHub-ST10483126-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ST10483126)
 
 </div>
 
